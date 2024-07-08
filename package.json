@@ -1,6 +1,6 @@
 {
 
-  "homepage": "https://github.com/aaljo222/portfolio3.git",
+  "homepage": "https://bbljo22.github.io/portfolio3/",
 
   "name": "react-resume",
 
@@ -15,6 +15,7 @@
     "dev": "vite",
 
     "build": "vite build",
+
     "predeploy": "npm run build",
 
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
